@@ -1,0 +1,15 @@
+R1
+uet main campus
+uet ksk campus
+20
+6000
+R2
+uet ksk campus
+thokar niaz baig
+40
+6000
+R3
+uet main campus
+Johar town
+30
+6000
